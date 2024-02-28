@@ -1,0 +1,42 @@
+{
+    "title": "Uses of Web Scraping",
+    "headings": [
+        "What is Web Scraping used for ?",
+        "What is Web Scraping?",
+        "Most Common Uses of Web Scraping",
+        "1. Lead Generation for Marketing",
+        "2. Price Comparison & Competition Monitoring",
+        "3. E-Commerce",
+        "4. Real Estate",
+        "5. Data Analysis",
+        "5. Academic Research",
+        "6. Training and Testing Data for Machine Learning Projects",
+        "7. Sports Betting Odds Analysis",
+        "7. Other uses\r\n                    \n\r\n                        1. Scrape hotel/restaurant\r\n                        ratings and reviews from websites like TripAdvisor\n\n\r\n                        2. Scrape hotel room prices and details from websites\r\n                        like Booking.com and Hotels.com\r\n                      \n\r\n                        3. Scrape tweets related to an account or hashtag from\r\n                        Twitter\r\n                      \n\r\n                        4. Scrape profile data from social networks like\r\n                        Facebook, LinkedIn etc. for tracking online reputation.\r\n                      \n\r\n                        5. Scrape hospital/clinic websites to build a catalog of\r\n                        physicians including their contact details\r\n                      \n\r\n                        6.\r\n                        Scrape images and profile data from Instagram\n\n\r\n                        7. Crawl forums and communities to extract data from\r\n                        posts and authors\r\n                      \n\r\n                        8. Scrape articles from various article/PR websites\r\n                      \n\r\n                        9. Scrape data from various Government websites, most of\r\n                        which do not provide an easy way to download the data\r\n                        which they display.\r\n                      \n\n\nScrape data from any website using WebHarvy",
+        "Scrape data from any website using WebHarvy"
+    ],
+    "paragraphs": [
+        "What are the practical uses and advantages of web scraping",
+        "The Internet is a data store of world's information - be\r\n                      it text, media or data in any other format. Every web page\r\n                      display data in one form or the other. Access to this data\r\n                      is crucial for the success of most businesses in the\r\n                      modern world. Unfortunately, most of this data is not\r\n                      open. Most websites do not provide the option to save the\r\n                      data which they display to your local storage, or to your\r\n                      own website. This is where a\r\n                      Web Scraping software can help\r\n                      you.",
+        "The uses of\r\n                      Web Scraping for\r\n                      business as well as personal requirements are endless.\r\n                      Each business or individual has their own specific need\r\n                      for gathering data. In this article, we discuss some of\r\n                      the most common usage scenarios.",
+        "",
+        "Web Scraping is the process of automatically downloading\r\n                      data displayed by websites to your computer or database. A\r\n                      Web Scraping Software can crawl multiple pages within a\r\n                      website and automate the tedious task of manually copying\r\n                      and pasting the data displayed. The data is usually\r\n                      downloaded in a spreadsheet (tabular) format.",
+        "Know more :\r\n                      What is web scraping?",
+        "A web scraping software can be used to generate leads for\r\n                      marketing. Email and Phone lists for cold outreach can be\r\n                      built by scraping the data from relevant websites. For\r\n                      example, business contact details like phone number and\r\n                      email address can be scraped from yellow pages websites or\r\n                      from Google Maps business listings.",
+        "Scrape email addresses and phone numbers from Yellow\r\n                        Pages\nScrape business contact details from Google Maps\r\n                        Listings",
+        "Companies catering products or services need to have\r\n                      comprehensive data of competitor products and services\r\n                      which appear in the market every day. A web scraping\r\n                      software can be used to keep a constant watch on this\r\n                      data.",
+        "Web Scraping can be used to periodically extract data of\r\n                      products from various e-commerce websites like Amazon,\r\n                      eBay, Google Shopping etc. Product details like price,\r\n                      description, images, reviews, rating etc. can be easily\r\n                      extracted using a web scraping software.",
+        "Scrape product data from Amazon\nScrape Google Shopping Product Data\nScraping AliExpress Product Details",
+        "Property details displayed by real estate websites like\r\n                      Zillow, Realtor etc. can be extracted using a Web Scraping\r\n                      software. In addition to scraping property details, web\r\n                      scraping can also be used to scrape agent and owner\r\n                      contact details.",
+        "Scrape real estate websites for property data",
+        "You might want to collect and analyze data related to a\r\n                      specific category from multiple websites. The category\r\n                      might be real estate, automobiles, electronic gadgets,\r\n                      industrial equipment, business contacts, marketing etc.\r\n                      The different websites which belong to the specific\r\n                      category displays information in different formats. Even\r\n                      with a single website you may not be able to see all the\r\n                      data at once. The data may be spanned across multiple\r\n                      pages (like google search results, known as pagination or\r\n                      paginated lists) under various sections.",
+        "Using a\r\n                      Web Scraper you can\r\n                      extract data from multiple websites to a single\r\n                      spreadsheet (or database) so that it becomes easy for you\r\n                      to analyze (or even visualize) the data.",
+        "Data is an integral part of any research, be it academic,\r\n                      marketing or scientific. A Web Scraper will help you\r\n                      gather structured data from multiple sources in the\r\n                      Internet with ease.",
+        "Web Scraping helps you to gather data for testing /\r\n                      training your Machine Learning models. Quality of your\r\n                      machine learning models depends on the quality of training\r\n                      data used and when the data is not readily available you\r\n                      can employ web scraping to collect it from various\r\n                      websites.",
+        "How to get data for\r\n                        Machine Learning Projects using Web Scraping?",
+        "Web scraping is used to collect betting odds values by\r\n                      various bookmakers from sports betting websites like\r\n                      OddsPortal, BetExplorer, FlashScore etc.",
+        "Scrape betting odds from OddsPortal\nScrape FlashScore live scores and betting odds\nScrape betting odds from BetExplorer",
+        "WebHarvy is an\r\n                      easy to use, visual web scraping software which can scrape\r\n                      data from any website, without limits. WebHarvy can scrape\r\n                      text, images, phone, email/website addresses etc. from\r\n                      multiple pages of websites and save the data in\r\n                      spreadsheet format to files or databases.",
+        "If you are\r\n                      interested in knowing more, we highly recommend that you\r\n                      download and try the FREE 15 days evaluation version\r\n                      of WebHarvy."
+    ]
+}
